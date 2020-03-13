@@ -1,2 +1,3 @@
-# Blog
-My Blog
+# 这里是CeSun的博客仓库
+
+接下来我要写的博客会以markdown文件的形式出现在github
